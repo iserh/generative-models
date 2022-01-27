@@ -1,0 +1,8 @@
+/datasets
+**/plots
+**/*checkpoints
+**/lightning_logs
+.vscode
+**/*.pdf
+**/__pycache__
+**/.ipynb_checkpoints
